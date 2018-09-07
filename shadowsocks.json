@@ -1,0 +1,10 @@
+{
+"server":"97.64.111.144",
+"server_port":8089,
+"local_address": "127.0.0.1",
+"local_port":1080,
+"password":"hex42@freedom",
+"timeout":500,
+"method":"rc4-md5",
+"fast_open": false
+}
